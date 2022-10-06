@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\bin\Debug\net6.0\LINQ Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\bin\Debug\net6.0\LINQ Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\bin\Debug\net6.0\LINQ Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\bin\Debug\net6.0\LINQ Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\bin\Debug\net6.0\LINQ Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\refint\LINQ Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\LINQ Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\LINQ Lab\LINQ Lab\obj\Debug\net6.0\ref\LINQ Lab.dll
